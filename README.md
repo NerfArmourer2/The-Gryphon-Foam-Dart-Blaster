@@ -1,3 +1,19 @@
+# The Tuffphon Foam Dart Blaster - A hardened Gryphon
+
+The Gryphon is great but it has a lot of structural weakness that I feel need toughening up to allow it to stand up to the sorts of combat conditions that exist in the real world.
+
+Original BritNerf thread is here: https://www.tapatalk.com/groups/britnerf/wip-the-tuffphon-a-hardened-gryphon-t6296.html
+
+Project contributors:
+sewwes12 of vikingfoamarms.com
+Boff of Bofftac.co.uk
+
+Thanks to:
+tbr of Team Fancy Pants for his thoughts and insight into Gryphon building
+All the users of BritNerf who have contributed in the thread and the wider user base that have put up with our Gryphon fan-girling all over the Discord server
+
+Original Read Me Below:
+
 # The-Gryphon-Foam-Dart-Blaster
 The Gryphon is a mostly 3D printable, hobby-grade, Nerf semi-automatic flywheel blaster. Its main design features are as follows:
 
